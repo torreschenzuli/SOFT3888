@@ -1,1 +1,4 @@
-# repo
+# Creating Tactile Interfaces as Enabling Technology
+Project Description: 
+Modern computers frequently use visual and auditory interfaces. For example, we can see the visual information on our screens and hear the audio computers generate. However, one important modality is less explored, that is, what we feel through our skin. We feel vibrations, temperature and pressure through sensory receptors in our skin. This modality is particularly important to create enabling interfaces, for instance computer interfaces used by visually impaired people. In this project, we will explore how we can create enabling technologies using novel tactile interfaces.
+Skills Required: excellent skills in programming, knowledge in embedded systems, enabling technologies and human computer interactiCreaon are added benefits.
